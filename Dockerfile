@@ -12,6 +12,7 @@ RUN apt-get update -y && \
 #Copying the Source files to image
 
 COPY ./index.html /var/www/html/
+
 #exposing 80 listening port
 
 EXPOSE 80
