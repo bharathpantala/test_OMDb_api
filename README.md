@@ -51,7 +51,7 @@ Run the following command on docker host.
     
     
    
-# testing the application
+# Testing the application
 
      Once deployed to a docker host.
      
