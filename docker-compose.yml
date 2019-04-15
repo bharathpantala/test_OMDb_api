@@ -1,0 +1,20 @@
+version: '3'
+
+services:
+  movie_search:
+    build: .
+    ports:
+      - 80:80
+    my_omdb:
+    	image: "my_omdb:latest"
+    volumes:
+       - movie_search:/var/www/html # Full OMDB API test project
+    networks:
+      - movie_search  
+
+networks:
+  movie_search:
+    driver: bridge
+
+volumes:
+  movie_search:        
