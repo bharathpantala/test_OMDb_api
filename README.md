@@ -1,17 +1,17 @@
-# test_OMDb_api in Dockerized ENV
-test_OMDb_api
+Test_OMDb_api in Dockerized ENV
 
+test_OMDb_api
 
 # Developing UI
 
 * UI built with HTML and JavaScript. 
 * Used JQUERY with JS file from https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js to use qurybox.
 * Called OMDb API through a script in index.html by passing API and TOKEN.
-* Using the funtion getanswer(q) we called  API
+* Using the funtion getanswer(q) method we called  API.
 * Using the function(rawdata) we made a query by declaring the variables Title,Year and IMDb URL, and POSTER.
     Saved as index.html
 
-# Building a Docker IMAGE to ship our Program in NGINX.
+# Building a Docker IMAGE to ship our program to NGINX.
 
 * Written a Dockerfile to build an Image.
    -> Used Ubuntu:16.04 as a base image.
