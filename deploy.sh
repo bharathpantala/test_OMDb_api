@@ -22,7 +22,7 @@ if [$? -eq 1 ]; then
 
 					#-Completion 
 					echo "----------------------------------------"
-					echo "View App deployed here " http://localhost or ip /
+					echo "View App deployed here " http://localhost or http://ip. 
 
 
 
