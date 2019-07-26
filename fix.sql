@@ -1,15 +1,8 @@
 #klasjd
-asdmvn
-asmaqworijsv,sa
-qworij	w
-'qe
-mkqe
-	k
-		kqe
-		lk
-		qk
-		;lkeeqk qf
-		;lm
-		qe
-		
+Fiselasdh; 
+qp;i v'qvj qpfv'q hv'qe j
+qfq
+e qvf
+;
+
 		
